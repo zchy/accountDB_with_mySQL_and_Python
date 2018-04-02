@@ -23,7 +23,7 @@ def ConnectToSQL():
                            port=3306,  
                            user='root',  
                            passwd='',  
-                           db='account_database',  
+                           db='accountDB',  
                            charset='utf8')  
     cur = conn.cursor()  
     return(conn,cur)
