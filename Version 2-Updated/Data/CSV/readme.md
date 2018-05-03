@@ -1,1 +1,1 @@
-#CSV data
+# CSV data for the database import.
